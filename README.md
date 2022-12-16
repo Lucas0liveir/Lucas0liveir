@@ -1,6 +1,6 @@
 # Lucas Oliveira
 
-I am currently coursing systems analysis and development, taking the 2nd semester and studying libraries ReactJS and React Native.
+I am currently coursing systems analysis and development, taking the 3nd semester and studying libraries ReactJS and React Native.
 My objective: make the world better through technology!
 
 ## Contact
