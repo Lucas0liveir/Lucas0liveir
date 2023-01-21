@@ -1,7 +1,6 @@
 # Lucas Oliveira
 
-I am currently coursing systems analysis and development, taking the 3nd semester and studying libraries ReactJS and React Native.
-My objective: make the world better through technology!
+Desenvolvedor e Analista de software, com habilidades de Frontend e Backend.
 
 ## Contact
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-93a44a122)
